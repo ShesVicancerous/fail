@@ -1,0 +1,43 @@
+
+
+h1{
+
+    color: rgb(59, 134, 168);
+   
+
+}
+
+
+   
+a:hover a:active {
+
+    color: darkmagenta;
+    
+    }
+    
+    
+    
+    
+    a {
+    
+        color: #d31414;
+    
+    }
+    
+    a:visited {
+    
+       
+        color: rgb(228, 224, 29);
+    
+    }
+
+strong{
+    color: #ad1212;
+    background-color: rgba(237, 240, 165, 0.178);
+}
+
+
+body{ color: #d31414;
+
+    background-color: (#b1af45);
+}

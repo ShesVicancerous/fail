@@ -1,0 +1,42 @@
+
+
+h1{
+
+    color: #1441d3;
+
+}
+
+
+   
+a:hover a:active {
+
+    color: rgb(72, 199, 47);
+    
+    }
+    
+    
+    
+    
+    a {
+    
+        color: #23707a;
+    
+    }
+    
+    a:visited {
+    
+       
+        color: rgb(51, 153, 42);
+    
+    }
+
+strong{
+    color: rgb(21, 30, 155);
+   
+}
+
+
+body{
+    color: rgb(64, 103, 209);
+    background-color: (#d42b2b);
+}

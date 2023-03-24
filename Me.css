@@ -1,0 +1,68 @@
+
+
+
+a:hover a:active {
+
+color: darkmagenta;
+
+}
+
+
+
+
+a {
+
+    color: black;
+
+}
+
+a:visited {
+
+   
+    color: rgb(70, 28, 112);
+
+}
+
+
+h1{
+    color: deeppink; 
+    
+}
+
+
+h2{
+    color: rgb(155, 89, 241);
+
+}
+
+
+h3{
+    color: rgb(241, 89, 170);
+    
+}
+
+strong{
+    color: rgba(19, 8, 32, 0.781);
+    background-color: rgb(240, 232, 248);
+}
+
+
+body{
+    color: rgb(155, 89, 241);
+    background-color: rgb(240, 232, 248);
+}
+
+hr{
+
+color: darkorchid;
+background-color: darkorchid;
+
+}
+button{
+    background-color: rgba(114, 66, 158, 0.39);
+    border-bottom-right-radius: 20in;
+    border-color: rgba(139, 0, 139, 0.39);
+    border-bottom-left-radius: 20in;
+    border-top-right-radius: 20in;
+    border-top-left-radius: 20in;
+    }
